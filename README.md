@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working at @Redspark.io<br>- 📚 I'm currently learning Front-end development<br>- ⚡ In my free time I like to play Soulslike</p>
+<p align="left">- 🔭 I’m working at @Redspark.io<br>- 📚 I'm currently learning Front-end development<br>- ⚡ In my free time I like to play Soulslike</p>
 
 ###
 
