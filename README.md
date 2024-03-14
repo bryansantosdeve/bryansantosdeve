@@ -1,5 +1,6 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/Ei4R2j6kz9JwVGhwXY/giphy.gif"  />
+  <img height="200" src="https://8bitdigi.com/wp-content/uploads/2020/12/MGS2_NotSolidSnake.png"  />
 </div>
 
 ###
@@ -12,7 +13,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working at @Redspark.io<br>- 📚 I'm currently learning Front-end development<br>- ⚡ In my free time I like to play Soulslike</p>
+<p align="left">- 🔭 I’m working at @Redspark.io<br>- 📚 I'm currently learning Front-end development<br>- ⚡ In my free time I like to play Souls and Metal Gear Solid series</p>
 
 ###
 
