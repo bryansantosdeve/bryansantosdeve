@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working at @Redspark.io<br>- 📚 I'm currently learning Front-end development<br>- ⚡ In my free time I like to play Souls and Metal Gear Solid series</p>
+<p align="left">🔭 Just code <br />⚡ In my free time I like to play Souls and Metal Gear Solid series</p>
 
 ###
 
