@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <i>Software Developer with 4+ years of experience and enthusiastic to solve problems and develop solutions in order to achieve efficient projects that can help anyone by using software. I've started my career working with Java and JavaFX as a Back-end intern and, since then, I've been exploring many others techs, resources and stacks. Searching for end-to-end solutions to your project or someone excited to assist and add value to your team? Contact me!</i>
+  <i>Software Developer with 5+ years of experience and enthusiastic to solve problems and develop solutions in order to achieve efficient projects that can help anyone by using software. I've started my career working with Java and JavaFX as a Back-end intern and, since then, I've been exploring many others techs, resources and stacks. Searching for end-to-end solutions to your project or someone excited to assist and add value to your team? Contact me!</i>
 </p>
